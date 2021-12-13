@@ -199,7 +199,7 @@ Plugins tools
 
     .. versionadded:: 9.5
 
-Some command line tolls are also available to manage plugins from command line:
+Some command line tools are also available to manage plugins from command line:
 
  * ``glpi:plugin:install``
  * ``glpi:plugin:activate``
